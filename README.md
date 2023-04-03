@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**mfpalladino/mfpalladino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" valign="center"><a href="https://twitter.com/mfpalladino">Twitter</a> | <a href="https://www.linkedin.com/in/mfpalladino/">LinkedIn</a> </p>
 
-Here are some ideas to get you started:
+# Stuff™
+:speaking_head: :cloud: :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Where to find me
+
+| Where | What |
+|:--------------------------- |:-----|
+| [Youtube](https://www.youtube.com/watch?v=lUva8IxFVpQ) | Introduction to AWS Lambda Powertools (pt-br) |
+| [Youtube](https://youtu.be/QyoZRPk7tYQ?t=3717) | 5 pitfalls for your team's productivity  (pt-br) |
+| [Youtube](https://www.youtube.com/watch?v=pdMjnuIiYo8) | Starting with AWS DynamoDB (pt-br) |
+| [Youtube](https://www.youtube.com/watch?v=GVk8jAYro0Y) | Protecting your data with AWS KMS (pt-br) |
+| [Youtube](https://www.youtube.com/@AWSUGSP) | AWS User Group São Paulo (pt-br) |
